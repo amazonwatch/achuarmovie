@@ -4,7 +4,7 @@ title: Oil and Development
 lang: en
 ---
 
-##Oil and Development
+## Oil and Development
 
 Everything that is precious to the Achuar is under imminent threat from oil drilling and exploration in their ancestral territory.
 

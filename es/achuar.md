@@ -4,35 +4,35 @@ title: The Achuar
 lang: es
 ---
 
-##Los Achuar
+## Los Achuar
 
 {% include achuar_images.html %}
 
 Alrededor de 16,000 Achuar viven en pequeñas aldeas a lo largo de los ríos y en las cuencas Pastaza, Corrientes, y Morona en ambos lados de la frontera peru-ecuatoriana. En esta zona remota y con la mayor biodiversidad de la selva tropical, los ríos y bosque proporcionan a los Achuar con agua para beber y asearse, peces, animales, frutas silvestres, insectos, hongos para comer, y todos los materiales necesarios para levantar y techar sus casas ovaladas y hacer canoas, canastas,  banquitos, ollas cerámicas, bolsas, coronas de plumas, instrumentos musicales y muchas otras cosas que usan diariamente.
 
-Tienen grandes jardines donde crecen diferentes cultivos incluyendo plantas para comer, para adornarse y pintarse, para elaborar utensilios y artesanías, para utilizar como remedios y venenos, algunos con poderes especiales que ayudan a soñar, comunicares con los espíritus, ver el futuro o embrujar y seducir a un amante deseado. De todos los cultivos que los Achuar crecen, *wayús*, yuca, y tabaco son los tres más importantes que nutren la mente, el cuerpo, y el espirito del Achuar. 
+Tienen grandes jardines donde crecen diferentes cultivos incluyendo plantas para comer, para adornarse y pintarse, para elaborar utensilios y artesanías, para utilizar como remedios y venenos, algunos con poderes especiales que ayudan a soñar, comunicares con los espíritus, ver el futuro o embrujar y seducir a un amante deseado. De todos los cultivos que los Achuar crecen, *wayús*, yuca, y tabaco son los tres más importantes que nutren la mente, el cuerpo, y el espirito del Achuar.
 
 > “Wikia achuar aintsuitgai”
 > <cite>“Soy una persona Achuar”</cite>
 
-Hace varios años que las comunidades Achuar sueñan con darse a conocer al país y al mundo y introducir su estilo de vida y la belleza de la tierra que habitan desde tiempos ancestrales. Para los Achuar, un sueño no es solamente una ilusión nocturna pasajera sin relación con la vida real. Al contrario, los sueños son una puerta de comunicación con los espíritus de los antepasados que vienen a conversar con los vivos y darles consejo para que logren tener una visión sobre su futuro y puedan trazar un camino para seguir en la vida. 
+Hace varios años que las comunidades Achuar sueñan con darse a conocer al país y al mundo y introducir su estilo de vida y la belleza de la tierra que habitan desde tiempos ancestrales. Para los Achuar, un sueño no es solamente una ilusión nocturna pasajera sin relación con la vida real. Al contrario, los sueños son una puerta de comunicación con los espíritus de los antepasados que vienen a conversar con los vivos y darles consejo para que logren tener una visión sobre su futuro y puedan trazar un camino para seguir en la vida.
 
 La visión que comparten todos los Achuar es proteger sus tierras ancestrales para poder dejárselas de herencia a sus hijos. Muy poca gente en las ciudades ha escuchado hablar de ellos, pero los Achuar sí saben de la vida en las ciudades y su existencia está lejos de ser ajena a las presiones y amenazas que la economía mundial coloca sobre el medio ambiente. Sus tierras han sido catalogadas por el Estado Peruano para la explotación de hidrocarburos, pero este proyecto del Gobierno no toma en cuenta la visión que los Achuar han recibido en sueños de sus ancestros.
 La vida contidiana
 
 ---
 
-##La vida cotidiana
+## La vida cotidiana
 
 {% include es/achuar_slideshow.html %}
 
 ---
 
-##Visiones
+## Visiones
 
 Cuando llegan a la pubertad, tanto los muchachos como las muchachas atraviesan un ritual en busca de una visión que les permitirá concebir un camino a seguir en sus vidas. Es un ritual solitario y una prueba de valor.
 
-Los niños salen del pueblo en ayunas y se van al bosque al amanecer. Se van cantando y silbando, llamando a los espíritus y pidiéndoles que les envíen una buena visión. Caminan por varias horas hasta llegar a cerca de una fuente de agua donde construyen una chosita. Después hacen un camino limpio y claro en línea recta por ambos lados de la choza y toman un baño en el arroyo. 
+Los niños salen del pueblo en ayunas y se van al bosque al amanecer. Se van cantando y silbando, llamando a los espíritus y pidiéndoles que les envíen una buena visión. Caminan por varias horas hasta llegar a cerca de una fuente de agua donde construyen una chosita. Después hacen un camino limpio y claro en línea recta por ambos lados de la choza y toman un baño en el arroyo.
 
 Al atardecer, beben una taza de jugo de tabaco, traído de la casa y preparado por una persona anciana de la comunidad. La abuela, o el abuelo, prepara el tabaco masticándolo con su saliva, porque, según los Achuar, es a través de la saliva que el poder espiritual de las personas mayores se transmite a  los menores. De esta manera, las visiones que tuvieron durante su juventud también  se les comunicará a los niños.
 
@@ -42,7 +42,7 @@ Según el tipo de animal bajo cuya forma se manifiesta el Arutam, entrega difere
 
 ---
 
-##Anents
+## Anents
 
 Los cantos para llamar a los Arutam y conseguir sus poderes se llaman *anents*. *Anents* son cantos con poderes que atraen cosas o seres deseados y hacen que las cosas sucedan favorablemente para ellos, trabajando en el mundo físico y espiritual.
 

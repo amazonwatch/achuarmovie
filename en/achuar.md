@@ -4,7 +4,7 @@ title: The Achuar
 lang: en
 ---
 
-##The Achuar
+## The Achuar
 
 {% include achuar_images.html %}
 
@@ -21,13 +21,13 @@ The vision which the Achuar share is to protect their ancestral lands and leave 
 
 ---
 
-##Daily Life
+## Daily Life
 
 {% include en/achuar_slideshow.html %}
 
 ---
 
-##Visions
+## Visions
 
 Both boys and girls undertake a special ritual around the age of puberty to ask for a vision to guide their lives. It is a ritual undertaken alone, and is a test of bravery.
 
@@ -41,7 +41,7 @@ The *Arutam* gives different visions depending upon the form it takes when it ap
 
 ---
 
-##Anents
+## Anents
 
 The songs which call the *Arutam* and ask for their power to be passed on are called *anent*. *Anent* are charms with the power to attract a desired thing or being and ensure that events work out favourably, working in the physical and emotional worlds. There are *anent* for searching for a vision, *anent* to ensure the growth of plants, *anent* for curing the sick, *anent* to attract game animals and *anent* to make someone fall in love or return home if missed.
 

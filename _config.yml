@@ -2,4 +2,4 @@ auto:           true
 server:         true
 server_port:    4000
 exclude:        ./config
-markdown:       rdiscount
+markdown:       kramdown
